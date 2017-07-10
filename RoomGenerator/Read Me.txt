@@ -1,0 +1,10 @@
+Hi,
+
+This is the folder to the whole project. You should be able to open it in the latest version of Unity, I checkd it with version 5.6.1.
+
+I added a button to the inspector so you can generate the rooms by pressing it.
+
+Let me know if you have any questions, you can email me directly at p.ferri1986@gmail.com.
+
+Thanks!
+Paolo
